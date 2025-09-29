@@ -1,0 +1,16 @@
+# Python / venv
+.venv/
+__pycache__/
+*.pyc
+
+# Ambiente e DB
+.env
+orders.db
+
+# Ferramentas
+*.sqlite3
+.pytest_cache/
+
+# SO
+.DS_Store
+Thumbs.db
